@@ -1,1 +1,1 @@
-# Project-No-35-Automatic-Number-Plate-Reading
+# Project-No-35-Automatic-Number-Plate-Recognition
